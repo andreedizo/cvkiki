@@ -1,0 +1,25 @@
+.bordure1{
+	height: 1000px;
+	background-color: purple;
+}
+.bordure2{
+	height: 1000px;
+	background-color: gray;
+}
+img{
+	height: 250px;
+	width: 100%;
+}
+h3{
+	margin: 20px;
+}
+li{
+	font-size: 20px;
+}
+h2{
+	text-decoration: underline;
+	color: red;
+}
+li{
+	color: black;
+}
